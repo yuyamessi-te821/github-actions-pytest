@@ -31,7 +31,7 @@ a / b 関数を定義
 
             # Python 環境構築
             - uses: actions/setup-python@v5
-            with:
+              with:
                 python-version: "3.10"
 
             # pytest のインストール
